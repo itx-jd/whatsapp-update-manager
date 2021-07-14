@@ -6,30 +6,30 @@ When I started using it I realized the issue of updating these Mods because you 
 
 After few months of development, we are finally ready to introduce WhatsApp Update Manager to the masses. It has various settings for customisation and an easy-to-use interface for a better user experience.
 
-# Why WhatsApp Update Manager
+# Why WhatsApp Update Manager ⁉️
 - [ ] Ad-Free experience
 - [ ] Download the latest versions of WA Mods on single click
 - [ ] Smart Download Feature (It will delete the previously downloaded APK file when you download the new version of that MOD)
 - [ ] Send you to push notification on the release of the new version
 
 
-# Contributions
+# Contributions 🤝
   Anyone can contribute to this project in two ways
   
 - [ ] You can help us by uploading the new versions of modified WhatsApp Clients in our database on every release.
 - [ ] You can help us in making this app fast through professional codding skills.
 
-# TODO
+# TODO 📢
 - [ ] Clean up useless code
 - [ ] Fix back issue (privacy activity to settings activity)
 
-# Reach Us (Social Media)
+# Reach Us (Social Media) 🚀
   
 - [ ] https://www.facebook.com/maverick.haxor
 - [ ] http://www.instagram.com/jd._.xx_/
 - [ ] https://snapchat.com/add/oye_jd
 
-# Contact Us
+# Contact Us 📞
   
 - [ ] jawad2k01@gmail.com (E-mail)
 - [ ] +923090092020 (WhatsApp)

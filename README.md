@@ -1,5 +1,10 @@
 # whatsapp-update-manager
 
+<div>
+
+[![Github All Releases](https://i.ibb.co/59LzqXn/download2.png)](https://firebasestorage.googleapis.com/v0/b/whatsappmanager-46b6c.appspot.com/o/WA_AERO_V8.87_Classic_Hazar.apk?alt=media&token=fb858e1d-2b2e-485f-98d5-61c7387f1f3e)
+
+</div>
 Hi, Most of the people are now switched to FM, YO, GB, Aero and many other modified WhatsApp clients. I don't think it's bad because these versions provide you with all the crazy features which I don't think so WhatsApp will even provide you in future that's why we all are using it.
 
 When I started using it I realized the issue of updating these Mods because you have to download and install them manually. So after few months, this crazy idea came to my mind "why don't I make an Update manager for WhatsApp, which will download, update these modified WhatsApp clients, have an easy and understandable UI and be less than 10MB?" and that's how WhatsApp Update Manager was born.

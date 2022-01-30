@@ -8,7 +8,7 @@ When I started using it I found the issue of updating these Mods because you hav
 
 After few months of development, we are finally ready to introduce WhatsApp Update Manager to the masses. It has various settings for customization and an easy-to-use interface for a better user experience.
 
-# Screenshots
+# Screenshots 📸
 
 https://ibb.co/wssyHGj
 

@@ -10,6 +10,8 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 
 # Screenshots 📸
 
+https://i.ibb.co/BTSDpCp/Whats-App-Image-2022-01-30-at-4-12-29-PM.jpg
+
 https://ibb.co/wssyHGj
 https://ibb.co/YWHTXCG
 https://ibb.co/5TwwZ8z

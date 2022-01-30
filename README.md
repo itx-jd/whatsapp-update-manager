@@ -10,13 +10,11 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 
 # Screenshots 📸
 
-https://i.ibb.co/BTSDpCp/Whats-App-Image-2022-01-30-at-4-12-29-PM.jpg
-
-https://ibb.co/wssyHGj
+https://ibb.co/c275BrB <br>
+https://ibb.co/0DhMpRt <br>
+https://ibb.co/5TwwZ8z  <br>
+https://ibb.co/wssyHGj <br>
 https://ibb.co/YWHTXCG
-https://ibb.co/5TwwZ8z
-https://ibb.co/0DhMpRt
-https://ibb.co/c275BrB
 
 # Why WhatsApp Update Manager ⁉️
 - [ ] Ad-Free experience

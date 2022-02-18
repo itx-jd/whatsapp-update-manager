@@ -10,7 +10,7 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 
 # Screenshots 📸
 
-![](images/screenshot.gif)
+![](images/screenshots.gif)
 
 # Why WhatsApp Update Manager ⁉️
 - [ ] Ad-Free experience

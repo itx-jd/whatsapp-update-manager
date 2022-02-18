@@ -10,11 +10,7 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 
 # Screenshots 📸
 
-https://ibb.co/c275BrB <br>
-https://ibb.co/0DhMpRt <br>
-https://ibb.co/5TwwZ8z  <br>
-https://ibb.co/wssyHGj <br>
-https://ibb.co/YWHTXCG
+![](images/screenshot.gif)
 
 # Why WhatsApp Update Manager ⁉️
 - [ ] Ad-Free experience

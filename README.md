@@ -19,16 +19,16 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 - [ ] Smart Download Feature (It will delete the previously downloaded APK file when you download the new version of that MOD)
 - [ ] Send you to push notification on the release of the new version
 
+# TODO 📢
+- [ ] Sometimes not work on Android 11 or Higher
+- [ ] Clean up useless code
+- [ ] Fix back issue (privacy activity to settings activity)
 
 # Contributions 🤝
   Anyone can contribute to this project in two ways
   
 - [ ] You can help us by uploading the new versions of modified WhatsApp Clients in our database on every release.
 - [ ] You can help us in making this app fast through professional codding skills.
-
-# TODO 📢
-- [ ] Clean up useless code
-- [ ] Fix back issue (privacy activity to settings activity)
 
 # Reach Us (Social Media) 🚀
   

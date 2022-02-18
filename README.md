@@ -14,6 +14,7 @@ After few months of development, we are finally ready to introduce WhatsApp Upda
 
 # Why WhatsApp Update Manager ⁉️
 - [ ] Ad-Free experience
+- [ ] Fastest Download Speed
 - [ ] Download the latest versions of WA Mods on single click
 - [ ] Smart Download Feature (It will delete the previously downloaded APK file when you download the new version of that MOD)
 - [ ] Send you to push notification on the release of the new version

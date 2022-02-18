@@ -1,6 +1,6 @@
 # whatsapp-update-manager
 
-[![Github All Releases](https://i.ibb.co/59LzqXn/download2.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/Test%20APK/WA%20Update%20Manager.apk)
+[![Github All Releases](images/download.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/Test%20APK/WA%20Update%20Manager.apk)
 
 Hi, Most of the people are now switched to FM, YO, GB, Aero and many other modified WhatsApp clients. I don't think it's bad because these clients provide you all the crazy features which I don't think so WhatsApp will even provide you in future that's why we all are using it.
 

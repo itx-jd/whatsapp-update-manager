@@ -2,6 +2,8 @@
 
 [![Github All Releases](images/download.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/Test%20APK/WA%20Update%20Manager.apk)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jadi)
+
 Modified WhatsApp clients like GB or Aero WhatsApp turn out well and have very advanced features.<br>
 Updating these apps is a tedious task as we have to download them from third-party websites that contain annoying ads.
 

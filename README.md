@@ -29,7 +29,7 @@ After a few months of development, I am finally ready to introduce WhatsApp Upda
 
 ![](images/screenshots.gif)
 
-# Using Android Studio
+# Using Android Studio 💻
 Clone the Repository, open it in Android Studio and build the application.
 
 # Contributions 🤝

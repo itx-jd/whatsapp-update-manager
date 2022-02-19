@@ -1,7 +1,5 @@
 # whatsapp-update-manager
 
-https://www.mediafire.com/file/4e192pf1i91mnqn/INTOLMALL-LLC.pdf/file
-
 [![Github All Releases](images/download.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/Test%20APK/WA%20Update%20Manager.apk)
 
 Modified WhatsApp clients like GB or Aero WhatsApp turn out well and have very advanced features.<br>

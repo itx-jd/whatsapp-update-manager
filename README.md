@@ -1,6 +1,6 @@
 # whatsapp-update-manager
 
-[![Github All Releases](images/download.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/app/release/WA%20Update%20Manager%20v1.apk)
+[![Github All Releases](images/download.png)](https://github.com/itx-jd/whatsapp-update-manager/raw/main/app/release/latest/WA%20Update%20Manager.apk)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jadi)
 

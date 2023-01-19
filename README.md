@@ -42,7 +42,7 @@ Clone the Repository, open it in Android Studio and build the application.
 
 # Reach Us (Social Media) 🚀
   
-- [ ] https://www.facebook.com/maverick.haxor
+- [ ] https://www.facebook.com/itx.jadiii
 - [ ] http://www.instagram.com/jd._.xx_/
 - [ ] https://snapchat.com/add/oye_jd
 

@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "WhatsApp Manager 2.0"

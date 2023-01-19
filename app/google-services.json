@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "834355532747",
+    "firebase_url": "https://whatsappmanager-46b6c-default-rtdb.firebaseio.com",
+    "project_id": "whatsappmanager-46b6c",
+    "storage_bucket": "whatsappmanager-46b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834355532747:android:1edc84c0b447403f0fdc4e",
+        "android_client_info": {
+          "package_name": "com.coderium.updatemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9W5XL9DmYLY0QgaAHtpjiX1reYzfRKCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834355532747:android:f6600272e9a48b250fdc4e",
+        "android_client_info": {
+          "package_name": "com.codex.updatemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834355532747-evqctj568j0d11n73gv1rn0nqd0kmace.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codex.updatemanager",
+            "certificate_hash": "9314fa1f733dff14c25f4f16fc531530059f2c21"
+          }
+        },
+        {
+          "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9W5XL9DmYLY0QgaAHtpjiX1reYzfRKCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834355532747:android:ab53e5ff869e85690fdc4e",
+        "android_client_info": {
+          "package_name": "com.example.whatsappmanager20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9W5XL9DmYLY0QgaAHtpjiX1reYzfRKCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834355532747-ci2hr3favenpl17voh9ag83e3bopmh5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

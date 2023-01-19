@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <RelativeLayout
+        android:id="@+id/rl_contributor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_contributor_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textColor="@color/black"
+            android:textSize="12dp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_baseline_arrow_forward_ios_24"
+            app:tint="@color/black" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/LightGray"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

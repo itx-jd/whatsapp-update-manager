@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ContributorActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="40dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="20dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:onClick="backButton"
+                    android:rotation="180"
+                    android:src="@drawable/ic_baseline_arrow_backward_ios_24" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="40dp"
+                    android:text="Contribute"
+                    android:textColor="@color/black"
+                    android:textSize="22dp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                app:cardCornerRadius="7dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:text="Contribute"
+                        android:textColor="@color/black"
+                        android:textSize="13dp"/>
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:onClick="joinCoderium"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Join Coderium"
+                                android:textColor="@color/black"
+                                android:textSize="16dp" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="50dp"
+                                android:text="Update Database &amp; Enjoy Exclusive Stuff"
+                                android:textColor="@color/Gray"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/ic_baseline_arrow_forward_ios_24"
+                            app:tint="@color/black" />
+
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginHorizontal="20dp"
+                        android:background="@color/LightGray" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="15dp"
+
+                        android:text="Top Contributors"
+                        android:textColor="@color/black"
+                        android:textSize="13dp"
+                        android:textStyle="bold"/>
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scrollbars="none">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <androidx.recyclerview.widget.RecyclerView
+                                android:id="@+id/recycleViewDonators"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:overScrollMode="never" />
+
+                        </LinearLayout>
+
+                    </ScrollView>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

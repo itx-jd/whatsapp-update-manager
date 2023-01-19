@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.PrivacyActivity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="10dp"
+        android:scrollbars="none"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:onClick="back"
+                    android:rotation="180"
+                    android:src="@drawable/ic_baseline_arrow_backward_ios_24" />
+
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Privacy Policy"
+                android:textColor="@color/black"
+                android:textSize="35dp"
+                android:fontFamily="@font/heebo_black"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/tv_privacy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="privacy policy"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

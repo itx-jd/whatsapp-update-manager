@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">WA Update Manager</string>
+    <string name="app_version">V 3.0.0</string>
+
+    <!--    about dialog-->
+    <string name="about_description">Coderium is a geek community. We develop apps that ease your life. Everyone is warmly welcome to put in his effort and contribute to this project by helping us in providing the latest versions to noobs :)</string>
+
+    <!--    update dialog-->
+    <string name="update_title">We\'re Getting Better!</string>
+    <string name="update_description">Update the app to unlock new features</string>
+
+    <!--    feedback info-->
+    <string name="email">coderium.official@gmail.com</string>
+    <string name="subject">Feedback Of WA Update Manager</string>
+    <string name="body">Hi! I love your concept and I want to say ...</string>
+
+    <!--    Hire info-->
+    <string name="hire_subject">Private Project Discussion</string>
+    <string name="hire_body">Describe your project here !</string>
+
+    <!--    other-->
+    <string name="toast_download">Download Started !</string>
+    <string name="toast_internet">No Internet Connection ! 😭</string>
+
+</resources>
